@@ -1,0 +1,5 @@
+[1126/220136.278:ERROR:dxva_video_decode_accelerator_win.cc(1426)] DXVAVDA fatal error: Could not load mf.dll: Não foi possível encontrar o módulo especificado. (0x7E)
+[1126/220136.612:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1126/220136.612:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[1126/220136.612:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[1126/220136.612:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
